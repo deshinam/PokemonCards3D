@@ -64,7 +64,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
                 }
             }
             
-            if imageAnchor.referenceImage.name == "vivid" {
+            if imageAnchor.referenceImage.name == "vivid" || imageAnchor.referenceImage.name == "vivid2" {
                 if let pokeScene = SCNScene(named: "art.scnassets/oddish.scn") {
                     if let pokeNode = pokeScene.rootNode.childNodes.first {
                         pokeNode.eulerAngles.x = .pi / 2
