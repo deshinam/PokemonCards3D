@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "tinkoff.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 53.890000000000001
+  }
+}

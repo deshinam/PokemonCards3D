@@ -57,11 +57,11 @@
 			isa = PBXGroup;
 			children = (
 				194A55F824669C7000369876 /* AppDelegate.swift */,
-				194A55FA24669C7000369876 /* art.scnassets */,
 				194A55FC24669C7000369876 /* ViewController.swift */,
 				194A55FE24669C7000369876 /* Main.storyboard */,
-				194A560124669C7200369876 /* Assets.xcassets */,
 				194A560324669C7200369876 /* LaunchScreen.storyboard */,
+				194A55FA24669C7000369876 /* art.scnassets */,
+				194A560124669C7200369876 /* Assets.xcassets */,
 				194A560624669C7200369876 /* Info.plist */,
 			);
 			path = Poke3D;
